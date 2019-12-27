@@ -1,0 +1,21 @@
+
+#
+*.iml
+.idea
+.gradle
+local.properties
+/android/app/gradle/
+gradlew
+gradlew.bat
+# node.js
+#
+package-lock.json
+node_modules/*
+
+
+# BUCK
+buck-out/
+\.buckd/
+
+.vscode
+
